@@ -7,5 +7,5 @@ def countdown
     sleep (10.secs)
     x-=1
   end
-  return "HAPPY NEW YEAR!"
 end
+"HAPPY NEW YEAR!"
